@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGODB_PASS": "z8CNV4tvgmntr9T",
+    "JWT_KEY": "asd123456"
+  }
+}
